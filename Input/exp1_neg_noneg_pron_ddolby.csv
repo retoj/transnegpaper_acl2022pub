@@ -1,0 +1,31 @@
+N-of-ACTs;Negtype;Conj;Add. El.;MorF;Schema
+3;not;contr_does;None;m;MNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. However, he does like to MASK.
+3;not;does;None;m;MNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. He does like to MASK.
+3;not;None;None;m;MNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. He likes to MASK.
+3;None;implic._does;None;m;MNAME is PROF who tries to ACT3, ACT2, and ACT1 as often as possible. So, he really does like to MASK.
+3;None;None;None;m;MNAME is PROF who tries to ACT3, ACT2, and ACT1 as often as possible. He really likes to MASK.
+2;not;contr_does;None;m;MNAME is PROF who doesn't like to ACT2, nor does he like to ACT1. However, he does like to MASK.
+2;not;does;None;m;MNAME is PROF who doesn't like to ACT2, nor does he like to ACT1. He does like to MASK.
+2;not;None;None;m;MNAME is PROF who doesn't like to ACT2, nor does he like to ACT1. He likes to MASK.
+2;None;implic._does;None;m;MNAME is PROF who tries to ACT2, and to ACT1 as often as possible. So, he really does like to MASK.
+2;None;None;None;m;MNAME is PROF who tries to ACT2, and to ACT1 as often as possible. He really likes to MASK.
+1;not;contr;None;m;MNAME is PROF who doesn't like to ACT. However, he does like to MASK.
+1;not;does;None;m;MNAME is PROF who doesn't like to ACT. He does like to MASK.
+1;not;None;None;m;MNAME is PROF who doesn't like to ACT. He likes to MASK.
+1;None;implic._does;None;m;MNAME is PROF who tries to ACT as often as possible. So, he really does like to MASK.
+1;None;None;None;m;MNAME is PROF who tries to ACT as often as possible. He really likes to MASK.
+3;not;contr_does;None;f;FNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. However, she does like to MASK.
+3;not;does;None;f;FNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. She does like to MASK.
+3;not;None;None;f;FNAME is PROF who doesn't like to ACT3, ACT2, or ACT1. She likes to MASK.
+3;None;implic._does;None;f;FNAME is PROF who tries to ACT3, ACT2, and ACT1 as often as possible. So, she really does like to MASK.
+3;None;None;None;f;FNAME is PROF who tries to ACT3, ACT2, and ACT1 as often as possible. She really likes to MASK.
+2;not;contr_does;None;f;FNAME is PROF who doesn't like to ACT2, nor does she like to ACT1. However, she does like to MASK.
+2;not;does;None;f;FNAME is PROF who doesn't like to ACT2, nor does she like to ACT1. She does like to MASK.
+2;not;None;None;f;FNAME is PROF who doesn't like to ACT2, nor does she like to ACT1. She likes to MASK.
+2;None;implic._does;None;f;FNAME is PROF who tries to ACT2, and to ACT1 as often as possible. So, she really does like to MASK.
+2;None;None;None;f;FNAME is PROF who tries to ACT2, and to ACT1 as often as possible. She really likes to MASK.
+1;not;contr;None;f;FNAME is PROF who doesn't like to ACT. However, she does like to MASK.
+1;not;does;None;f;FNAME is PROF who doesn't like to ACT. She does like to MASK.
+1;not;None;None;f;FNAME is PROF who doesn't like to ACT. She likes to MASK.
+1;None;implic._does;None;f;FNAME is PROF who tries to ACT as often as possible. So, she really does like to MASK.
+1;None;None;None;f;FNAME is PROF who tries to ACT as often as possible. She really likes to MASK.

@@ -1,0 +1,9 @@
+typeofmodel,fullmodelname,tokenizername,nameforfile
+bert,distilbert-base-cased,distilbert-base-cased,distilbertbasecased
+roberta,../data/Models/Neg-roberta-large-351kwikiwithbut/,roberta-large,negrobertalarge
+roberta,roberta-large,roberta-large,robertalarge
+bert,bert-large-cased,bert-large-cased,bertlargecased
+xlnet,../data/Models/Neg-xlnet-large-polarwikiwithbut,xlnet-large-cased,negxlnetlarge
+bert,../data/Models/Neg-bert-large-en-351kpolarwiki/,bert-large-cased,negbertlarge
+bert,bert-base-cased,bert-base-cased,bertbasecased
+xlnet,xlnet-large-cased,xlnet-large-cased,xlnetlargecased

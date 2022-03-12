@@ -1,0 +1,11 @@
+N-of-ACTs;Negtype;Conj;Add. El.;MorF;Schema
+1;not;contr_does;MP_but;m;MNAME is PROF who doesn't like to ACT. Many people, but not MNAME, like to ACT. MNAME, however, likes to MASK.
+1;not;none;MP_but;m;MNAME is PROF who doesn't like to ACT. Many people, but not MNAME, like to ACT. MNAME likes to MASK.
+1;not;contr_does;MP;m;MNAME is PROF who doesn't like to ACT. Of course, many people like to ACT. MNAME, however, likes to MASK.
+1;not;none;MP;m;MNAME is PROF who doesn't like to ACT. Of course, many people like to ACT. MNAME likes to MASK.
+1;not;contr_does;1rand;m;MNAME is PROF who doesn't like to ACT. Today is Tuesday and the Sun is shining. MNAME likes to MASK.
+1;not;contr_does;MP_but;f;FNAME is PROF who doesn't like to ACT. Many people, but not FNAME, like to ACT. FNAME, however, likes to MASK.
+1;not;none;MP_but;f;FNAME is PROF who doesn't like to ACT. Many people, but not FNAME, like to ACT. FNAME likes to MASK.
+1;not;contr_does;MP;f;FNAME is PROF who doesn't like to ACT. Of course, many people like to ACT. FNAME, however, likes to MASK.
+1;not;none;MP;f;FNAME is PROF who doesn't like to ACT. Of course, many people like to ACT. FNAME likes to MASK.
+1;not;contr_does;1rand;f;FNAME is PROF who doesn't like to ACT. Today is Tuesday and the Sun is shining. FNAME likes to MASK.

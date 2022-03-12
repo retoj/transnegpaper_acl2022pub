@@ -1,0 +1,91 @@
+an accountant
+an actor
+an air steward
+an animator
+an architect
+an assistant
+an author
+a baker
+a biologist
+a builder
+a butcher
+a career counselor
+a caretaker
+a chef
+a civil servant
+a clerk
+a comic book writer
+a company director
+a computer programmer
+a cook
+a decorator
+a dentist
+a designer
+a diplomat
+a director
+a doctor
+an economist
+an editor
+an electrician
+an engineer
+an executive
+a farmer
+a film director
+a fisherman
+a fishmonger
+a flight attendant
+a garbage man
+a geologist
+a hairdresser
+a head teacher
+a jeweler
+a journalist
+a judge
+a juggler
+a lawyer
+a lecturer
+a lexicographer
+a library assistant
+a magician
+a makeup artist
+a manager
+a miner
+a musician
+a nurse
+an optician
+a painter
+a personal assistant
+a photographer
+a pilot
+a plumber
+a police officer
+a politician
+a porter
+a printer
+a prison officer
+a professional gambler
+a puppeteer
+a receptionist
+a sailor
+a salesperson
+a scientist
+a secretary
+a shop assistant
+a sign language Interpreter
+a singer
+a soldier
+a solicitor
+a surgeon
+a tailor
+a teacher
+a telephone operator
+a telephonist
+a translator
+a travel agent
+a trucker
+A TV cameraman
+A TV presenter
+a vet
+a waiter
+a web designer
+a writer

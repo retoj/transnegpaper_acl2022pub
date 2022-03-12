@@ -1,0 +1,4 @@
+N-of-ACTs;Negtype;Conj;Add. El.;MorF;Schema
+1;not;contr;Cleo;m;MNAME is PROF who doesn't like to ACT. Unlike MNAME, Cleopatra does like to MASK.
+1;not;does;Cleo;m;MNAME is PROF who doesn't like to ACT. Cleopatra does like to MASK.
+1;not;None;Cleo;m;MNAME is PROF who doesn't like to ACT. Cleopatra likes to MASK.
